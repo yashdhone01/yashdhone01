@@ -1,67 +1,93 @@
-## Hi there 👋
+# Hi there, I’m Yash Dhone 👋
 
-<!--
-**yashdhone01/yashdhone01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+    width="220" 
+    alt="code animation"
+  />
+</p>
 
-Here are some ideas to get you started:<h1 align="center">Hey 👋What's Up?</h1>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=480&lines=Multi-disciplinary+Engineer;AI+%7C+Security+%7C+IoT;Building+secure+intelligent+systems" 
+  alt="Typing SVG" 
+/>
 
-###
+*Building secure, intelligent systems that bridge the digital and physical worlds.*
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,ts,html,css,nodejs,bash,mongodb,aws,docker,git,unity,blender&perline=15" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/yashdhone">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://yashdhone.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-###
+<hr />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🛡️ About Me
 
-###
+<img 
+  align="right"
+  src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif"
+  width="170"
+ />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+I am an **AI & Security-focused engineer** with hands-on experience across embedded systems, IoT, AI pipelines, and immersive XR environments.  
+I care deeply about **system correctness, security by design, and real-world impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights**
+- 🏆 **1st Prize** — Vishwacon 2024 Product Conclave *(Sleep Apnea Detection)*
+- 📜 **Published Researcher** — *IJEEDC Journal* *(Aviation Logistics Data Analysis)*
+- 🎮 **XR Engineering** — Firebird VR *(Optimized C# rendering pipelines)*
+- 🚀 **Current Focus** — Building **UPIF**, a Python library to defend LLMs against prompt injection
+
+---
+
+## 🚀 Selected Projects
+
+### 🔐 UPIF — Universal Prompt Injection Filter  
+*A security layer for LLM/RAG pipelines to stop malicious injections and data exfiltration.*  
+**Stack:** Python · AI Security · Regex · LLM Defenses
+
+### 🩺 Sleep Apnea Detection System  
+*IoT wearable built on ESP32 with real-time cloud-based intelligent analysis.*  
+**Stack:** C++ · ESP32 · Firebase · Data Analytics
+
+### 🤖 Ballista — IoT Robotics System  
+*3D-printed mechanics combined with precision motors and a mobile control interface.*  
+**Stack:** Robotics · IoT · 3D Design · C++
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhone01&theme=tokyonight" />
+</p>
+
+---
+
+## 🕹 Contribution Timeline
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/yashdhone01/yashdhone01/output/pacman-contribution-graph.svg" 
+    alt="Pacman contribution graph"
+  />
+</p>
+
+<hr />
+
+### 🤝 Let’s Connect
+<p>🌐 https://yashdhone.vercel.app</p> 
+<p>🐦 https://twitter.com/Yash354642</p>
