@@ -89,5 +89,5 @@ I care deeply about **system correctness, security by design, and real-world imp
 <hr />
 
 ### 🤝 Let’s Connect
-<p>🌐 https://yashdhone.vercel.app</p> 
-<p>🐦 https://twitter.com/Yash354642</p>
+<p> <a href="https://yashdhone.vercel.app">🌐 Website</a></p> 
+<p> <a href="https://twitter.com/Yash354642">🐦Twitter</a></p>
