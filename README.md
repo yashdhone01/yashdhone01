@@ -27,7 +27,7 @@ Fun Facts:
 <p></p>
 ☕ Fuel: I prefer deep work sessions over small talk
 <p></p>
-🎮 Hobbies: Gym, UI/UX, and building things that shouldn't work (but do)
+🎮 Hobbies: Gym, Bike Riding, Red Teaming and building things that shouldn't work (but do)
 <p></p>
 🛠 Tech & Tools
 <p></p>
