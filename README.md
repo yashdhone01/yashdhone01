@@ -11,7 +11,7 @@
 <p>I build secure, intelligent systems that bridge the gap between the digital and physical worlds. If an idea pops into my head or I spot a security vulnerability, chances are I’ll build a tool to solve it and ship it.</p>
 <p></p><p></p>
 
-My main tech stack is Python, C++, and TypeScript. My favorite tools are Docker, Unity, and Blender.
+My main tech stack is Python, Bash, and TypeScript. My favorite tools are Docker, Unity, and Blender.
 <p></p>
 
 I’ve got a bunch of pinned projects below, but my favorite is UPIF — a security layer I built to defend LLMs against prompt injections.
