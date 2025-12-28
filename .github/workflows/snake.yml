@@ -14,9 +14,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
       - name: Generate pacman contribution graph
         uses: Platane/snk@v3
@@ -26,25 +23,8 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
 
-      - name: Prepare dist folder (safe)
-        run: |
-          # create dist if missing (no error if exists)
-          mkdir -p dist
-
-          # Move generated files from repo root to dist if they exist
-          for f in pacman-contribution-graph*.svg; do
-            if [ -f "$f" ]; then
-              mv -f "$f" dist/
-            fi
-          done
-
-          # Show dist contents for debugging
-          ls -la dist || true
-
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           message: "chore: generate pacman contribution graph"
           add: "dist"
