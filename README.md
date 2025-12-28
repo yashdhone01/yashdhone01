@@ -5,7 +5,7 @@
   width="170"
  />
 
-<p>I’m Yash, a Multi-disciplinary Engineer obsessed with technical synergy across AI, Security, and IoT.</p>
+<p>I’m Yash, a ENTC Engineer based in India.</p>
 <p></p>
 
 <p>I build secure, intelligent systems that bridge the gap between the digital and physical worlds. If an idea pops into my head or I spot a security vulnerability, chances are I’ll build a tool to solve it and ship it.</p>
