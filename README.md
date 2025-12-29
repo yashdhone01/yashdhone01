@@ -33,13 +33,6 @@ Fun Facts:
 <p></p>
 <p align="left"> <img src="https://skillicons.dev/icons?i=py,cpp,cs,ts,nodejs,bash,mongodb,aws,docker,git,unity,blender&perline=12" /> </p>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhone01&theme=tokyonight" />
-</p>
-
----
 
 ## 🕹 Contribution Timeline
 
